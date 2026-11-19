@@ -1,0 +1,6 @@
+{
+  "name": "AVENIR Luxury Fashion",
+  "description": "AVENIR — Refined Elegance. Minimalist luxury fashion house presenting the A/W collection, tailored outerwear, cashmere, and leather goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
